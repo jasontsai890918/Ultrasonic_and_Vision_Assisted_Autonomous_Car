@@ -101,6 +101,9 @@ AIN0 → 右側光敏電阻
 AIN1 → 左側光敏電阻
 ```
 
+### 硬體電路圖
+![image](https://github.com/jasontsai890918/Ultrasonic_and_Vision_Assisted_Autonomous_Car/blob/main/Circuit_Diagram.png)
+
 ## 💻 軟體環境設置
 
 ### 系統需求
